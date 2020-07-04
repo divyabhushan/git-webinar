@@ -22,7 +22,7 @@ Explore the power of Git when it comes to -
 
 ## Presentation material
 
-* Read through the [Webinar slide](ppt/git_tutorial.ppt) for a complete hands-on tutorial.
+* Read through the [Webinar slide](PPT/Git_Webinar.pptx) for a complete hands-on tutorial.
 
 * Watch the video on how to [add your project files to the local Git repository](https://www.youtube.com/watch?time_continue=1&v=Lwfq_pYqads&feature=emb_logo).
 
