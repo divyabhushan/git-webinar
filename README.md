@@ -36,9 +36,7 @@ Explore the power of Git when it comes to -
 
 ## Contribute
 
-Please feel free to pour in your suggestions and feedbacks.
-
-Any FAQ regarding the session is most welcome.
+Kindly feel free to post in your questions, comments and suggestions -> [here](FAQ.md)
 
 ## Getting Started
 
@@ -81,6 +79,8 @@ git push origin
 ```
 
 6.Create a [PR](https://github.com/divyabhushan/git-webinar/compare)
+
+!!! Video will be uploaded soon
 
 Click on **Compare across forks**.
 
