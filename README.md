@@ -6,6 +6,8 @@ This repository is a collection of useful resources used in the git-webinar to h
 
 * View the [Introductory video](demo_videos/git-webinar-introduction.mp4) to understand what to expect out of this session.
 
+* Refer [this](https://medium.com/@divya_bhushan/git-basic-terms-and-commands-quick-guide-beginner-friendly-d116ba68b3fa) medium article to explore more about Git.
+
 ## Git
 
 [Git](https://medium.com/@divya_bhushan/git-basic-terms-and-commands-quick-guide-beginner-friendly-d116ba68b3fa) is an open source distributed Version Control System (VCS).
@@ -97,7 +99,9 @@ Go ahead and explore awesome git repositories and contribute your innovative ide
 
 ## Useful Resources
 
-[Pro Git](https://git-scm.com/book/en/v2) ebook written by Scott Chacon and Ben Straub.
+* [Pro Git](https://git-scm.com/book/en/v2) ebook written by Scott Chacon and Ben Straub.
+
+* [Git: Basic Terms and Commands quick guide-Beginner-friendly](https://medium.com/@divya_bhushan/git-basic-terms-and-commands-quick-guide-beginner-friendly-d116ba68b3fa)
 
 **Repository Admin**: [Divya Bhushan](https://www.linkedin.com/in/divyabhushan/)
 
